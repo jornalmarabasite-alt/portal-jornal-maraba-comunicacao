@@ -37,7 +37,6 @@ function Index() {
         <Poll />
         <div className="border-b-2 border-jm-green my-3" />
         <PrefeituraBanner />
-        <div className="border-b-2 border-jm-green my-4" />
         <JornalCidade />
         <div className="border-b-2 border-jm-green my-4" />
         <NewsGrid />
