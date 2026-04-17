@@ -35,8 +35,6 @@ function Index() {
         <TopBanner />
         <div className="border-b-2 border-jm-green my-3" />
         <Poll />
-        <div className="border-b-2 border-jm-green my-3" />
-        <PrefeituraBanner />
       </main>
       <footer className="mt-8 bg-jm-green-dark py-6 text-center text-sm text-white">
         © {new Date().getFullYear()} Jornal Marabá — Todos os direitos reservados
