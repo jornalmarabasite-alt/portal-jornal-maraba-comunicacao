@@ -92,7 +92,7 @@ export function Poll() {
       </div>
 
       <p className="mt-3 text-[15px] sm:text-[17px]">
-        O <strong>desempenho</strong> da <strong>Câmara Municipal de Marabá</strong> em 2025 foi
+        O <strong>DESEMPENHO DA CÂMARA DE VEREADORES DE MARABÁ</strong> em 2025 foi:
       </p>
 
       <div className="mt-2 flex flex-wrap justify-center gap-x-5 gap-y-2 text-[14px] font-bold">
@@ -117,7 +117,7 @@ export function Poll() {
       </div>
 
       <p className="mt-4 font-['Arial'] text-[15px] sm:text-[17px]">
-        Escolha <strong>ATÉ 5 VEREADORES(as) DE BONS PROJETOS DE LEI</strong> em 2025:
+        Indique de <strong>1 ATÉ 5 VEREADORES (as) DE BONS PROJETOS DE LEI</strong> em 2025:
       </p>
       <div className="mt-2 mx-auto w-full max-w-md">
         <Popover>
@@ -191,7 +191,7 @@ export function Poll() {
       </div>
 
       <p className="mt-4 font-['Arial'] text-[15px] sm:text-[17px]">
-        De até 5 escolhas, <strong>O MAIOR DESTAQUE na EXCELÊNCIA DO MANDATO</strong> foi:
+         O <strong>MAIOR DESTAQUE</strong> na <strong>EXCELÊNCIA DO MANDATO</strong> foi:
       </p>
       <div className="mt-2 flex justify-center">
         <select
